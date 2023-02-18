@@ -26,6 +26,6 @@ public class Volatile {
     }
 
     public static void main(String[] args) {
-        new Test().test();
+        new Volatile().test();
     }
 }
